@@ -24,6 +24,11 @@ Aplikasi ini digunakan untuk mengelola proses peminjaman ruangan dan fasilitas d
 
 ---
 
+## Flowchart
+(loungeflowchart.drawio.png)
+
+---
+
 ## 📂 Struktur Folder
 
 ```
