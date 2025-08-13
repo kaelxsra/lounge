@@ -34,8 +34,6 @@ Aplikasi ini digunakan untuk mengelola proses peminjaman ruangan dan fasilitas d
 ├── /process # File proses CRUD dan logika peminjaman
 ├── index.php # Halaman awal (Landing Page)
 └── README.md # Dokumentasi proyek
-
-
 ---
 
 ## ⚙️ Cara Instalasi
