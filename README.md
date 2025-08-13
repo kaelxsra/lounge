@@ -25,7 +25,7 @@ Aplikasi ini digunakan untuk mengelola proses peminjaman ruangan dan fasilitas d
 ---
 
 ## Flowchart
-(loungeflowchart.drawio.png)
+![flowchart](loungeflowchart.drawio.png)
 
 ---
 
