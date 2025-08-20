@@ -25,7 +25,7 @@ Aplikasi ini digunakan untuk mengelola proses peminjaman ruangan dan fasilitas d
 ---
 
 ## Flowchart
-![flowchart](loungeflowchart.png)
+![flowchart](lounge_flowchart.png)
 
 ---
 
